@@ -3,9 +3,9 @@ package Practical_tasks;
 /**
  * Created by Dell on 2/19/18.
  */
-public class ArraySortPT_3 {
+public class PT1_3ArraySort {
     public static void main(String[] args) {
-        int[] array = {1, 3, 2, 4, 6,7,8,9};
+        int[] array = {30, 2, 10, 4, 6};
         int length = array.length;
         boolean flag = true;
 

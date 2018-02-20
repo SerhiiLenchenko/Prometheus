@@ -3,7 +3,7 @@ package Practical_tasks;
 /**
  * Created by Dell on 2/16/18.
  */
-public class SquareRootPT1_1 {
+public class PT1_1SquareRoot {
     public static void main(String[] args) {
         //ax2 + bx + c = 0
         double a = -4;
